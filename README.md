@@ -10,6 +10,7 @@ I am a fullstack software engineer with experience in Customer Relations and Tro
 - 📫 How to reach me: shanerpersonal@gmail.com
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love finding exploits in video games...
+- ⚡ Fun fact #2: Even if I don't commit somedays, it doesn't mean I am not still working :)
 
 ---
 
